@@ -1,0 +1,2 @@
+language = "python3"
+run = "python first_x_fibonacci.py"
